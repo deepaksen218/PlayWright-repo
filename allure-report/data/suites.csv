@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6360","Login Using Invalid Username and Valid Passsword","chromium","2026-08-18","passed","2026-08-18","","LoginPage.spec.js","",""
+"","5020","Login Using Invalid Credentials","chromium","2026-08-18","passed","2026-08-18","","LoginPage.spec.js","",""
+"","5098","Login Using Valid Credentials","chromium","2026-08-18","passed","2026-08-18","","LoginPage.spec.js","",""
+"","4769","Login Using Valid Username and Invalid Passsword","chromium","2026-08-18","passed","2026-08-18","","LoginPage.spec.js","",""
